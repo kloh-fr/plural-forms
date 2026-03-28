@@ -293,6 +293,21 @@ export default {
             return 0;
         }
     },
+    cipher: {
+        name: 'Cipher',
+        examples: [{
+            plural: 0,
+            sample: 1
+        }, {
+            plural: 1,
+            sample: 2
+        }],
+        nplurals: 2,
+        pluralsText: 'nplurals = 2; plural = (n != 1)',
+        pluralsFunc: function(n) {
+            return (n !== 1);
+        }
+    },
     cs: {
         name: 'Czech',
         examples: [{

@@ -152,6 +152,13 @@ const DATA = {
         
         f: zero
     },
+    cipher: {
+        
+        
+        n: 2,
+        
+        f: not1
+    },
     cs: {
         
         
