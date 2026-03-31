@@ -152,7 +152,7 @@ const DATA = {
         
         f: zero
     },
-    cipher: {
+    ciphr: {
         
         
         n: 2,

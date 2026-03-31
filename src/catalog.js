@@ -293,7 +293,7 @@ export default {
             return 0;
         }
     },
-    cipher: {
+    ciphr: {
         name: 'Cipher',
         examples: [{
             plural: 0,
